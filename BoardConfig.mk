@@ -31,3 +31,10 @@ TARGET_KERNEL_VARIANT_CONFIG := msm8930_serrano_eur_3g_defconfig
 
 # BLN
 BOARD_HAVE_GENERIC_BLN := true
+
+# Validus optimizations
+SYMMETRY := true
+GRAPHITE_OPTS := true
+STRICT_ALIASING := true
+VALIDUS_CHANGELOG := false
+NO_BLOCK_OTA := false
