@@ -3,7 +3,6 @@
 "repository": "Cyanogenmod/android_device_samsung_qcom-common",
 "target_path": "device/samsung/qcom-common",
 "branch": "lp5.1"
-1"
 },
 {
 "repository": "TheMuppets/proprietary_vendor_samsung",
