@@ -1,6 +1,6 @@
 [
 {
-"repository": "Cyanogenmod/android_device_samsung_qcom-common",
+"repository": "TV-LP51/android_device_samsung_qcom-common",
 "target_path": "device/samsung/qcom-common",
 "branch": "lp5.1"
 },
@@ -10,7 +10,7 @@
 "branch": "cm-12.1"
 },
 {
-"repository": "CyanogenMod/android_device_samsung_msm8930-common",
+"repository": "TV-LP51/android_device_samsung_msm8930-common",
 "target_path": "device/samsung/msm8930-common",
 "branch": "lp5.1"
 },
