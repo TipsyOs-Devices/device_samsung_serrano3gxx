@@ -1,31 +1,37 @@
 [
 {
-"repository": "TipsyOs/android_device_samsung_qcom-common",
-"target_path": "device/samsung/qcom-common",
-"branch": "lp5.1"
-},
-{
+"remote": "github",
 "repository": "TheMuppets/proprietary_vendor_samsung",
 "target_path": "vendor/samsung",
 "branch": "cm-12.1"
 },
 {
-"repository": "TipsyOs-Devices/android_device_samsung_msm8930-common",
+"remote": "github",
+"repository": "SlimRoms/device_samsung_qcom-common",
+"target_path": "device/samsung/qcom-common",
+"branch": "lp5.1"
+},
+{
+"remote": "github",
+"repository": "TipsyOs-Devices/device_samsung_msm8930-common",
 "target_path": "device/samsung/msm8930-common",
 "branch": "lp5.1"
 },
 {
-"repository": "Cyanogenmod/android_device_samsung_serrano-common",
+"remote": "github",
+"repository": "TipsyOs-Devices/device_samsung_serrano-common",
 "target_path": "device/samsung/serrano-common",
-"branch": "cm-12.1"
+"branch": "lp5.1"
 },
 {
-"repository": "Cyanogenmod/android_hardware_qcom_fm",
+"remote": "github",
+"repository": "CyanogenMod/android_hardware_qcom_fm",
 "target_path": "hardware/qcom/fm",
 "branch": "cm-12.1"
 },
 {
-"repository": "Cyanogenmod/android_kernel_samsung_msm8930-common",
+"remote": "github",
+"repository": "CyanogenMod/android_kernel_samsung_msm8930-common",
 "target_path": "kernel/samsung/msm8930-common",
 "branch": "cm-12.1"
 }
